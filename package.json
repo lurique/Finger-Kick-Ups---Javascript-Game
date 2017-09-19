@@ -1,0 +1,22 @@
+{
+  "name": "finger-kickups",
+  "version": "0.0.1",
+  "description": "Simple kick-ups game made with vanilla Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lurique/finger-kickups.git"
+  },
+  "author": "LHenrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lurique/finger-kickups/issues"
+  },
+  "homepage": "https://github.com/lurique/finger-kickups#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
